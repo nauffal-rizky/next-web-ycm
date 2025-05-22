@@ -33,7 +33,12 @@ const DetailActivity = () => {
             modules={[Autoplay, Pagination, Navigation]}
           >
             <SwiperSlide>
-              <Image width={100} height={100} src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
             </SwiperSlide>
           </Swiper>
 
@@ -50,7 +55,12 @@ const DetailActivity = () => {
               modules={[Autoplay, Pagination, Navigation]}
             >
               <SwiperSlide>
-                <Image width={100} height={100} src="" alt="" />
+                <Image
+                  width={100}
+                  height={100}
+                  src="/assets/activities/bazaar.jpg"
+                  alt=""
+                />
                 <span className="name"></span>
                 <span className="status"></span>
               </SwiperSlide>
@@ -75,7 +85,12 @@ const DetailActivity = () => {
                 <div className="swiper myProducts">
                   <div className="swiper-wrapper">
                     <div className="swiper-slide">
-                      <Image width={100} height={100} src="" alt="" />
+                      <Image
+                        width={100}
+                        height={100}
+                        src="/assets/activities/bazaar.jpg"
+                        alt=""
+                      />
                     </div>
                   </div>
                   <div className="swiper-button-next"></div>

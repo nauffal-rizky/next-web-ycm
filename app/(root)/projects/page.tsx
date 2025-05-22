@@ -40,7 +40,12 @@ const Projects = () => {
                   data-id="ycm"
                   draggable="false"
                 >
-                  <Image width={100} height={100} src="" alt="YCM thumbnaiil" />
+                  <Image
+                    width={100}
+                    height={100}
+                    src="/assets/activities/bazaar.jpg"
+                    alt="YCM thumbnaiil"
+                  />
                   <div className="overlay">
                     <span className="video-title">YCM</span>
                     <i className="fa-regular fa-circle-play"></i>
@@ -54,7 +59,7 @@ const Projects = () => {
                   <Image
                     width={100}
                     height={100}
-                    src=""
+                    src="/assets/activities/bazaar.jpg"
                     alt="dance thumbnail"
                   />
                   <div className="overlay">
@@ -70,7 +75,12 @@ const Projects = () => {
                   </div>
                 </div>
                 <div className="video-item" data-id="yeip" draggable="false">
-                  <Image width={100} height={100} src="" alt="yeip" />
+                  <Image
+                    width={100}
+                    height={100}
+                    src="/assets/activities/bazaar.jpg"
+                    alt="yeip"
+                  />
                   <div className="overlay">
                     <span className="video-title">
                       Youth Empowerment and Internship Program YEIP
@@ -87,7 +97,12 @@ const Projects = () => {
                   data-id="lets read"
                   draggable="false"
                 >
-                  <Image width={100} height={100} src="" alt="lets read" />
+                  <Image
+                    width={100}
+                    height={100}
+                    src="/assets/activities/bazaar.jpg"
+                    alt="lets read"
+                  />
                   <div className="overlay">
                     <span className="video-title">Let us Read</span>
                     <i className="fa-regular fa-circle-play"></i>
@@ -103,7 +118,12 @@ const Projects = () => {
           </div>
           <div className="col">
             <div className="row">
-              <Image width={100} height={100} src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="description">
                 <div className="head-desc">
                   <span className="project-name"></span>
@@ -117,21 +137,21 @@ const Projects = () => {
                     width={100}
                     height={100}
                     className="documentation"
-                    src=""
+                    src="/assets/activities/bazaar.jpg"
                     alt=""
                   />
                   <Image
                     width={100}
                     height={100}
                     className="documentation"
-                    src=""
+                    src="/assets/activities/bazaar.jpg"
                     alt=""
                   />
                   <Image
                     width={100}
                     height={100}
                     className="documentation"
-                    src=""
+                    src="/assets/activities/bazaar.jpg"
                     alt=""
                   />
                 </div>

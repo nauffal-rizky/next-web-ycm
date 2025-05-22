@@ -28,7 +28,12 @@ const Activities = () => {
         >
           <SwiperSlide>
             <span></span>
-            <Image width={100} height={100} src="" alt="" />
+            <Image
+              width={100}
+              height={100}
+              src="/assets/activities/bazaar.jpg"
+              alt=""
+            />
             <p></p>
             <Link href="/activity-main/" className="read-more">
               Read More <i className="fa-solid fa-arrow-right-long"></i>
@@ -43,7 +48,7 @@ const Activities = () => {
                 width={100}
                 height={100}
                 className="program-img"
-                src=""
+                src="/assets/activities/bazaar.jpg"
                 alt="foto murid-murid dari semua kelas yang ada di YCM ngumpul wide shot"
               />
               <div className="description">
@@ -64,7 +69,7 @@ const Activities = () => {
                 width={100}
                 height={100}
                 className="program-img"
-                src=""
+                src="/assets/activities/bazaar.jpg"
                 alt=""
               />
               <div className="description">
@@ -88,7 +93,7 @@ const Activities = () => {
                 width={100}
                 height={100}
                 className="program-img"
-                src=""
+                src="/assets/activities/bazaar.jpg"
                 alt="foto murid-murid dari semua kelas yang ada di YCM ngumpul wide shot"
               />
               <div className="description">

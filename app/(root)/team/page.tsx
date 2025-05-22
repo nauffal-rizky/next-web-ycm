@@ -29,7 +29,13 @@ const Team = () => {
             modules={[Autoplay, Pagination, Navigation]}
           >
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2010 - present</span>
                 <span className="name">Aris Sanjaya</span>
@@ -45,7 +51,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2004 - present</span>
                 <span className="name">Rahmy Rossyana Dewi</span>
@@ -66,7 +78,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2004 - present</span>
                 <span className="name">Rizky Marliansyah</span>
@@ -86,7 +104,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2004 - present</span>
                 <span className="name">Viska</span>
@@ -119,7 +143,13 @@ const Team = () => {
             modules={[Autoplay, Pagination, Navigation]}
           >
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2005 - present</span>
                 <span className="name">Abdul Kohar</span>
@@ -138,7 +168,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2002 - present</span>
                 <span className="name">Siti Nurjannah</span>
@@ -157,7 +193,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2005 - present</span>
                 <span className="name">Agus Cahyono</span>
@@ -181,7 +223,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2022 - present</span>
                 <span className="name">Lovita Aristyani</span>
@@ -201,7 +249,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2009 - present</span>
                 <span className="name">Cibana Wulan</span>
@@ -223,7 +277,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2014 - present</span>
                 <span className="name">Moch Dery Syahid</span>
@@ -243,7 +303,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2011 - present</span>
                 <span className="name">Angga Agustina</span>
@@ -267,7 +333,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2013 - present</span>
                 <span className="name">Yandi Hermawan</span>
@@ -293,7 +365,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2013 - present</span>
                 <span className="name">Sri Maryani</span>
@@ -331,7 +409,13 @@ const Team = () => {
             modules={[Autoplay, Pagination, Navigation]}
           >
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2004 - present</span>
                 <span className="name"></span>
@@ -364,7 +448,13 @@ const Team = () => {
             modules={[Autoplay, Pagination, Navigation]}
           >
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2019 - Present</span>
                 <span className="name">Naufal Nur Rizky</span>
@@ -390,7 +480,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2018 - Present</span>
                 <span className="name">Sinta Wahyuni</span>
@@ -413,7 +509,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2014 - Present</span>
                 <span className="name">Zahra Nur Salsabila</span>
@@ -437,7 +539,13 @@ const Team = () => {
               </p>
             </SwiperSlide>
             <SwiperSlide>
-              <Image width={100} height={100} className="img" src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                className="img"
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="head">
                 <span className="timeline">2018 - Present</span>
                 <span className="name">Deni Marizki</span>

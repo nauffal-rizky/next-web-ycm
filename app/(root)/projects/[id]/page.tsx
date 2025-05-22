@@ -52,7 +52,7 @@ const DetailProject = () => {
               width={100}
               height={100}
               className="documentation"
-              src=""
+              src="/assets/activities/bazaar.jpg"
               alt="documentation"
               data-id=""
             />

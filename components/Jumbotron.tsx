@@ -10,7 +10,8 @@ import { Pagination, Navigation, Autoplay } from "swiper/modules";
 const Jumbotron = () => {
   return (
     <Swiper
-      className="w-full h-[100vh]"
+      className="w-full mt-[110px]"
+      style={{ height: "calc(100vh - 110px)" }}
       spaceBetween={0}
       slidesPerView={1}
       navigation={true}

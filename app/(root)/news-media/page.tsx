@@ -8,7 +8,12 @@ const NewsMedia = () => {
         <span className="title">News & Media</span>
         <div className="news-container">
           <Link href="" className="news">
-            <Image width={100} height={100} src="" alt="" />
+            <Image
+              width={100}
+              height={100}
+              src="/assets/activities/bazaar.jpg"
+              alt=""
+            />
             <div className="desc">
               <span></span>
               <p></p>

@@ -26,7 +26,12 @@ const DetailNewsMedia = () => {
           modules={[Autoplay, Pagination, Navigation]}
         >
           <SwiperSlide>
-            <Image width={100} height={100} src="" alt="" />
+            <Image
+              width={100}
+              height={100}
+              src="/assets/activities/bazaar.jpg"
+              alt=""
+            />
           </SwiperSlide>
         </Swiper>
         <div className="description">

@@ -16,7 +16,12 @@ const GetInvolved = () => {
         </div>
         <div className="options">
           <div className="donations">
-            <Image width={100} height={100} src="" alt="" />
+            <Image
+              width={100}
+              height={100}
+              src="/assets/activities/bazaar.jpg"
+              alt=""
+            />
             <span>Donate</span>
             <p>
               Your kindness can brighten the lives of children in Bogor. Every
@@ -43,7 +48,12 @@ const GetInvolved = () => {
             </Link>
           </div>
           <div className="volunteering">
-            <Image width={100} height={100} src="" alt="" />
+            <Image
+              width={100}
+              height={100}
+              src="/assets/activities/bazaar.jpg"
+              alt=""
+            />
             <span>Volunteering</span>
             <p>
               Join us on our journey of growth and impact! Our dedicated
@@ -59,7 +69,12 @@ const GetInvolved = () => {
             </Link>
           </div>
           <div className="sponsorship">
-            <Image width={100} height={100} src="" alt="" />
+            <Image
+              width={100}
+              height={100}
+              src="/assets/activities/bazaar.jpg"
+              alt=""
+            />
             <span>Sponsorship</span>
             <p>
               At YCM, monetary sponsorships play a crucial role in supporting

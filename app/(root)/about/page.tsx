@@ -15,7 +15,7 @@ const About = () => {
       <span className="title">About us</span>
       <section className="opening">
         <article className="wrapper">
-          <div className="video">
+          <div className="w-full">
             <iframe
               width="1280"
               height="720"
@@ -45,6 +45,7 @@ const About = () => {
           d="M0,160L30,165.3C60,171,120,181,180,160C240,139,300,85,360,90.7C420,96,480,160,540,170.7C600,181,660,139,720,138.7C780,139,840,181,900,192C960,203,1020,181,1080,154.7C1140,128,1200,96,1260,85.3C1320,75,1380,85,1410,90.7L1440,96L1440,320L1410,320C1380,320,1320,320,1260,320C1200,320,1140,320,1080,320C1020,320,960,320,900,320C840,320,780,320,720,320C660,320,600,320,540,320C480,320,420,320,360,320C300,320,240,320,180,320C120,320,60,320,30,320L0,320Z"
         ></path>
       </svg>
+
       <section className="vision-mission">
         <article className="wrapper">
           <div className="vision">
@@ -98,6 +99,7 @@ const About = () => {
           </p>
         </article>
       </section>
+
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
         <path
           fill="#9bb200"
@@ -113,7 +115,12 @@ const About = () => {
           <div className="col">
             <div className="cols-row">
               <div className="bubble">
-                <Image width={100} height={100} src="" alt="" />
+                <Image
+                  width={100}
+                  height={100}
+                  src="/assets/activities/bazaar.jpg"
+                  alt=""
+                />
                 <div className="description gesine">
                   <div className="head-desc">
                     <span className="name">Gesine Nitzschke</span>
@@ -139,7 +146,12 @@ const About = () => {
                 <button className="read-more">Read more</button>
               </div>
               <div className="bubble">
-                <Image width={100} height={100} src="" alt="" />
+                <Image
+                  width={100}
+                  height={100}
+                  src="/assets/activities/bazaar.jpg"
+                  alt=""
+                />
                 <div className="description putu">
                   <div className="head-desc">
                     <span className="name">Putu Ayu Novitry Ariany</span>
@@ -173,7 +185,12 @@ const About = () => {
               </div>
             </div>
             <div className="bubble">
-              <Image width={100} height={100} src="" alt="" />
+              <Image
+                width={100}
+                height={100}
+                src="/assets/activities/bazaar.jpg"
+                alt=""
+              />
               <div className="description">
                 <div className="head-desc">
                   <span className="name">Collaboration</span>
@@ -189,7 +206,12 @@ const About = () => {
             </div>
           </div>
           <div className="bubble">
-            <Image width={100} height={100} src="" alt="" />
+            <Image
+              width={100}
+              height={100}
+              src="/assets/activities/bazaar.jpg"
+              alt=""
+            />
             <div className="description thorsten">
               <div className="head-desc">
                 <span className="name">Thorsten Nitzschke</span>
@@ -240,6 +262,7 @@ const About = () => {
           d="M0,192L34.3,202.7C68.6,213,137,235,206,208C274.3,181,343,107,411,85.3C480,64,549,96,617,138.7C685.7,181,754,235,823,218.7C891.4,203,960,117,1029,106.7C1097.1,96,1166,160,1234,197.3C1302.9,235,1371,245,1406,250.7L1440,256L1440,320L1405.7,320C1371.4,320,1303,320,1234,320C1165.7,320,1097,320,1029,320C960,320,891,320,823,320C754.3,320,686,320,617,320C548.6,320,480,320,411,320C342.9,320,274,320,206,320C137.1,320,69,320,34,320L0,320Z"
         ></path>
       </svg>
+
       <section className="history">
         <article className="wrapper history-content">
           <span className="opening-text">Our History</span>
@@ -318,7 +341,7 @@ const About = () => {
                 <Image
                   width={100}
                   height={100}
-                  src="/static/img/activities/bazaar.jpg"
+                  src="/assets/activities/bazaar.jpg"
                   alt=""
                 />
               </SwiperSlide>
@@ -326,7 +349,7 @@ const About = () => {
                 <Image
                   width={100}
                   height={100}
-                  src="/static/img/activities/gathered.jpg"
+                  src="/assets/activities/bazaar.jpg"
                   alt=""
                 />
               </SwiperSlide>
@@ -334,7 +357,7 @@ const About = () => {
                 <Image
                   width={100}
                   height={100}
-                  src="/static/img/activities/presentation.jpg"
+                  src="/assets/activities/bazaar.jpg"
                   alt=""
                 />
               </SwiperSlide>
@@ -342,7 +365,7 @@ const About = () => {
                 <Image
                   width={100}
                   height={100}
-                  src="/static/img/activities/volunteering.JPG"
+                  src="/assets/activities/bazaar.jpg"
                   alt=""
                 />
               </SwiperSlide>
@@ -350,7 +373,7 @@ const About = () => {
                 <Image
                   width={100}
                   height={100}
-                  src="/static/img/activities/dance-1.jpg"
+                  src="/assets/activities/bazaar.jpg"
                   alt=""
                 />
               </SwiperSlide>
@@ -358,7 +381,7 @@ const About = () => {
                 <Image
                   width={100}
                   height={100}
-                  src="/static/img/classes/english-class-1.jpg"
+                  src="/assets/activities/bazaar.jpg"
                   alt=""
                 />
               </SwiperSlide>
@@ -366,7 +389,7 @@ const About = () => {
                 <Image
                   width={100}
                   height={100}
-                  src="/static/img/bogor-tours/bogor-tours-3.JPG"
+                  src="/assets/activities/bazaar.jpg"
                   alt=""
                 />
               </SwiperSlide>
@@ -374,7 +397,7 @@ const About = () => {
                 <Image
                   width={100}
                   height={100}
-                  src="/static/img/activities/futsal-3.JPG"
+                  src="/assets/activities/bazaar.jpg"
                   alt=""
                 />
               </SwiperSlide>
@@ -382,7 +405,7 @@ const About = () => {
                 <Image
                   width={100}
                   height={100}
-                  src="/static/img/projects/letsread.jpg"
+                  src="/assets/activities/bazaar.jpg"
                   alt=""
                 />
               </SwiperSlide>
@@ -390,7 +413,7 @@ const About = () => {
                 <Image
                   width={100}
                   height={100}
-                  src="/static/img/projects/yeip-2.jpg"
+                  src="/assets/activities/bazaar.jpg"
                   alt=""
                 />
               </SwiperSlide>
@@ -398,6 +421,7 @@ const About = () => {
           </div>
         </article>
       </section>
+
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
         <path
           fill="#9bb200"
@@ -421,7 +445,12 @@ const About = () => {
             modules={[Autoplay, Pagination, Navigation]}
           >
             <SwiperSlide>
-              <Image width={100} height={100} src="" alt="volunteer-img" />
+              <Image
+                width={100}
+                height={100}
+                src="/assets/activities/bazaar.jpg"
+                alt="volunteer-img"
+              />
               <div className="head">
                 <span className="timeline">2002 - 2024</span>
                 <span className="name"></span>
@@ -443,6 +472,7 @@ const About = () => {
           d="M0,64L48,53.3C96,43,192,21,288,53.3C384,85,480,171,576,170.7C672,171,768,85,864,48C960,11,1056,21,1152,53.3C1248,85,1344,139,1392,165.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
         ></path>
       </svg>
+
       <section className="partners">
         <article className="wrapper">
           <span className="opening-text">Our Partners</span>
@@ -451,7 +481,7 @@ const About = () => {
               <Image
                 width={100}
                 height={100}
-                src="/static/img/logo/avi.png"
+                src="/assets/activities/bazaar.jpg"
                 alt=""
               />
             </div>
@@ -459,7 +489,7 @@ const About = () => {
               <Image
                 width={100}
                 height={100}
-                src="/static/img/logo/kitabisa.png"
+                src="/assets/activities/bazaar.jpg"
                 alt=""
               />
             </div>
@@ -467,7 +497,7 @@ const About = () => {
               <Image
                 width={100}
                 height={100}
-                src="/static/img/logo/sola.png"
+                src="/assets/activities/bazaar.jpg"
                 alt=""
               />
             </div>
@@ -475,7 +505,7 @@ const About = () => {
               <Image
                 width={100}
                 height={100}
-                src="/static/img/logo/avi.png"
+                src="/assets/activities/bazaar.jpg"
                 alt=""
               />
             </div>
@@ -483,7 +513,7 @@ const About = () => {
               <Image
                 width={100}
                 height={100}
-                src="/static/img/logo/kitabisa.png"
+                src="/assets/activities/bazaar.jpg"
                 alt=""
               />
             </div>
@@ -491,13 +521,14 @@ const About = () => {
               <Image
                 width={100}
                 height={100}
-                src="/static/img/logo/sola.png"
+                src="/assets/activities/bazaar.jpg"
                 alt=""
               />
             </div>
           </div>
         </article>
       </section>
+
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
         <path
           fill="#9bb200"
